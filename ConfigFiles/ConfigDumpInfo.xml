@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.ЛокальныеМаршруты" id="67460b10-1972-4011-83c6-256d45458da3" configVersion="9c582684ca37914c883ed62c0fb04a9500000000">
+			<Metadata name="Catalog.ЛокальныеМаршруты.Attribute.МеткиJSON" id="2be37415-b6df-4aae-b7cc-af3630f1ef74"/>
+			<Metadata name="Catalog.ЛокальныеМаршруты.Attribute.ВремяВПути" id="7d66a9e3-f771-4736-840a-aaccaa6979e2"/>
+			<Metadata name="Catalog.ЛокальныеМаршруты.Attribute.НаборВысоты" id="8050b478-03a6-485a-bcb5-d6264662b435"/>
+			<Metadata name="Catalog.ЛокальныеМаршруты.Attribute.ПотеряВысоты" id="ad187bd5-4599-47a9-94c6-fa53473aa621"/>
+			<Metadata name="Catalog.ЛокальныеМаршруты.Attribute.Дистанция" id="cb2d2dcf-7537-4621-aa8d-1f5717be06c5"/>
+			<Metadata name="Catalog.ЛокальныеМаршруты.Attribute.ВремяВПутиСек" id="d1340b6e-d0c3-42b5-a02e-4984b6a3720c"/>
+		</Metadata>
+		<Metadata name="Catalog.ЛокальныеМаршруты.Form.ФормаВыбора" id="ab34a279-0c48-432b-bdcd-bfb9caacb89c" configVersion="608a49e727f36f499e6fd9b54fd8713a00000000"/>
+		<Metadata name="Catalog.ЛокальныеМаршруты.Form.ФормаВыбора.Form" id="ab34a279-0c48-432b-bdcd-bfb9caacb89c.0" configVersion="83ee3a048b1884469095909045a5a18800000000"/>
+		<Metadata name="Catalog.ЛокальныеМаршруты.Form.ФормаСписка" id="fcf9ca1e-3130-4189-8ea1-3afb45e8901b" configVersion="19a311c37960e74c938bd274f0b5f03300000000"/>
+		<Metadata name="Catalog.ЛокальныеМаршруты.Form.ФормаСписка.Form" id="fcf9ca1e-3130-4189-8ea1-3afb45e8901b.0" configVersion="55ba6575a7628643a477df406132223a00000000"/>
+		<Metadata name="Catalog.ЛокальныеМаршруты.Form.ФормаЭлемента" id="670e8f32-4fbf-4734-81b9-69e8647e0912" configVersion="c70c8db13ff64c4a9cf1756d35cdfc1f00000000"/>
+		<Metadata name="Catalog.ЛокальныеМаршруты.Form.ФормаЭлемента.Form" id="670e8f32-4fbf-4734-81b9-69e8647e0912.0" configVersion="e35b74951e17c44197767f992ba286cc00000000"/>
+		<Metadata name="Catalog.ЛокальныеМаршруты.Template.ШаблонКартыHTML" id="ceaccb55-d2a9-4c1e-8522-8bbc92a65b08" configVersion="e41bb98bbccff246a87b8d9be4685a9800000000"/>
+		<Metadata name="Catalog.ЛокальныеМаршруты.Template.ШаблонКартыHTML.Template" id="ceaccb55-d2a9-4c1e-8522-8bbc92a65b08.0" configVersion="ba0d4e6c2627964e884ba244b8ce91c700000000"/>
+		<Metadata name="Configuration.Конфигурация" id="52701d5a-cad4-43d8-9dc8-53d1596a36eb" configVersion="3e6e39323957b647a4631d97e1ade6d700000000"/>
+		<Metadata name="DataProcessor.КалькуляторВодыЕды" id="b6331c98-1a21-4504-b38a-94640787682e" configVersion="fc1a6358821c1845aaef70a7c65edb0c00000000"/>
+		<Metadata name="DataProcessor.КалькуляторВодыЕды.Form.Форма" id="dc59c3fe-c830-42f3-b20e-2ece5f190e0e" configVersion="df69885e08a14640bc3bb0330b009e4d00000000"/>
+		<Metadata name="DataProcessor.КалькуляторВодыЕды.Form.Форма.Form" id="dc59c3fe-c830-42f3-b20e-2ece5f190e0e.0" configVersion="ca4c7afd403276429db31c3baf2cb6d500000000"/>
+		<Metadata name="DataProcessor.СоздатьМаршрут" id="9a362eac-b8d9-47d0-b77f-259ac3038a7f" configVersion="2227c202b800e449b227fc1036de647100000000"/>
+		<Metadata name="DataProcessor.СоздатьМаршрут.Form.Форма" id="26af84ab-8820-4b92-8809-93f74dddd7cb" configVersion="5f0518411d024447996165b60850c43c00000000"/>
+		<Metadata name="DataProcessor.СоздатьМаршрут.Form.Форма.Form" id="26af84ab-8820-4b92-8809-93f74dddd7cb.0" configVersion="cfba9d9539d13944958dd0a48f8125e100000000"/>
+		<Metadata name="DataProcessor.СоздатьМаршрут.Template.ШаблонКартыHTML" id="cf83f1fa-157d-4dcd-b70e-2c1f56909ea0" configVersion="e2b68540504da247a5eb7100614b5dcb00000000"/>
+		<Metadata name="DataProcessor.СоздатьМаршрут.Template.ШаблонКартыHTML.Template" id="cf83f1fa-157d-4dcd-b70e-2c1f56909ea0.0" configVersion="1609a85fb283504f8a4b836ebf55de2b00000000"/>
+		<Metadata name="Enum.Пол" id="79f5b183-6140-4400-9b22-73416745675d" configVersion="a922595ed605f442ad58ded22a0bfbc400000000">
+			<Metadata name="Enum.Пол.EnumValue.Мужской" id="47a78957-4774-4535-a53c-9fcb854c2162"/>
+			<Metadata name="Enum.Пол.EnumValue.Женский" id="c5dd9bd8-f783-4655-b41c-c774bd731d42"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="8fc8e89f-0250-42eb-8c99-b4b4415705f5" configVersion="bd72b0f7a787d04aa3bbb8d0d140b08000000000"/>
+		<Metadata name="Role.Пользователь" id="9cd2c359-c04e-4786-a154-798c30d83d32" configVersion="00f692105c9af64cadf62fed41e8016400000000"/>
+		<Metadata name="Role.Пользователь.Rights" id="9cd2c359-c04e-4786-a154-798c30d83d32.0" configVersion="afd3603128491c469d02a1950f1be0a500000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

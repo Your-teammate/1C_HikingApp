@@ -1,0 +1,38 @@
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <style>
+            html,
+            body,
+            #container {
+                margin: 0;
+                width: 100%;
+                height: 100%;
+                overflow: hidden;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="container"></div>
+        <script src="https://mapgl.2gis.com/api/js/v1"></script>
+        <script src="https://unpkg.com/@2gis/mapgl-directions@^2/dist/directions.js"></script>
+        <script>
+            const key = 'b00acc71-94a2-40c6-b6cd-ecd26e772ece';
+            const map = new mapgl.Map('container', {
+                zoom: 12,
+                key: key,
+            });
+            map.setLanguage('ru');
+            
+            const directions = new mapgl.Directions(map, {
+                directionsApiKey: key,
+            });
+          
+            markersCoords = JSON.parse(***);
+            directions.pedestrianRoute({ points: markersCoords });
+            map.setCenter(markersCoords[0]);
+          
+        </script>
+    </body>
+</html>
